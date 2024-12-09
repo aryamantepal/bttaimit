@@ -1,1 +1,3 @@
-All my code and projects while taking ML foundations with Cornell Tech, as a part of Break Through Tech AI Boston @ MIT. 
+# Machine Learning Foundations
+
+Repository containing code and projects from ML Foundations at Cornell Tech, completed during Break Through Tech AI Boston @ MIT program.
